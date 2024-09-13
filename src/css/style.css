@@ -6,10 +6,6 @@ body {
     display: flex;
 }
 
-.rowField {
-
-}
-
 .cellField {
     border: 1px dashed black;
     height: 120px;
