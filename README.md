@@ -1,4 +1,4 @@
-Домашнее задание к занятию "2. DOM" https://github.com/FerzGT/Dom2_homeWork/actions/workflows/web.yml/badge.svg?event=push
+Домашнее задание к занятию "2. DOM" ![example event parameter](https://github.com/FerzGT/Dom2_homeWork/actions/workflows/web.yml/badge.svg?event=push)
 Правила сдачи задания:
 
 Важно: в рамках этого ДЗ можно использовать любой менеджер пакетов
