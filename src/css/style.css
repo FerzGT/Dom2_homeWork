@@ -1,37 +1,17 @@
-* {
-	box-sizing: border-box;
-}
-
 body {
-	background-color:rgb(73, 67, 67);
-}
-
-.title {
- 	text-align: center;
-	font-size: 2em;
-	color: #fff;
+    color: #999;
 }
 
 .field {
-	display: flex;
-	flex-wrap: wrap;
-	width: 70vmin;
-	height: 70vmin;
-	border: 1px solid black;
-	margin: auto;
-	background-color: rgb(194, 201, 162);
+    display: flex;
 }
 
-.cell {
-	width: 25%;
-	height: 25%;
-	box-sizing: border-box;
-	border: 2px solid black;
+.rowField {
+
 }
 
-.goblin {
-	background-image: url('../img/goblin.png');
-  	background-repeat: no-repeat;
-  	background-size: contain;
-  	background-position: center;
+.cellField {
+    border: 1px dashed black;
+    height: 120px;
+    width: 120px;
 }

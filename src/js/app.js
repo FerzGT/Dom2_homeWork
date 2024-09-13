@@ -1,6 +1,3 @@
-import Field from './Field';
-import GamePlay from './Game';
+import playGoblin from "./goblin";
 
-const fields = new Field();
-const gameplay = new GamePlay(fields);
-gameplay.init();
+playGoblin();
