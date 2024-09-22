@@ -3,7 +3,7 @@ export default class Board {
         this.boardEL = boardEL;
     }
     createBoard(cage) {
-        const boardEL = document.getElementById('grid-container');
+        const boardEL = document.getElementById('field');
         boardEL.classList.add('cursor');
         for (let i = 0; i < cage; i++) {
             createB('grid-row');

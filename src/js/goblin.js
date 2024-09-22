@@ -9,7 +9,7 @@ export default function playGoblin() {
       newDiv.appendChild(img);
   
       function moviGoblin() {
-        const field = document.querySelectorAll(".cellField");
+        const field = document.querySelectorAll(".grid-cell");
         const newPosition = Math.floor(Math.random() * (field.length - 1));
         field[newPosition].appendChild(newDiv);
       }
